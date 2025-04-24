@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "NeoFlexCalc",
+  "version": "1.0.0",
+  "description": "NeoFlex 근무 시간 분석 도구",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/neoFlexCalc.png",
+      "48": "images/neoFlexCalc.png",
+      "128": "images/neoFlexCalc.png"
+    }
+  },
+  "permissions": ["activeTab", "scripting"],
+  "icons": {
+    "16": "images/neoFlexCalc.png",
+    "48": "images/neoFlexCalc.png",
+    "128": "images/neoFlexCalc.png"
+  }
+}
